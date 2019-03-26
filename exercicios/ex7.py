@@ -1,0 +1,1 @@
+print("Iguais" if int(input("1º número -> ")) == int(input("2º número ->")) else "Diferentes")

@@ -1,0 +1,1 @@
+print("Maior de idade" if int(input("Sua idade -> ")) >= 18 else "Menor de idade")
